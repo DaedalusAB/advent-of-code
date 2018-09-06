@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-
-namespace advent_1_captcha
+﻿namespace advent_1_captcha
 {
     public class Captcha
     {
